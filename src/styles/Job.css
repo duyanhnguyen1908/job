@@ -1,0 +1,17 @@
+.menu-search {
+    margin-bottom: 20px;
+}
+
+/* Modal Delete Job */
+
+.icon-warning {
+    font-size: 200%;
+    color: red;
+    line-height: 0;
+    margin-right: 2%;
+    margin-top: 1%;
+}
+
+.modalDel {
+    display: flex;
+}
